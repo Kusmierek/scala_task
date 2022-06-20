@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E008] Not Found Error: /home/Kusmier/Downloads/PhotoRecognizer/src/main/scala/pointsTest.scala:2:11 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m2 |[0m[33mimport[0m org.scalatest.funsuite.AnyFunSuite[0m
+[0m[[0m[31merror[0m] [0m[0m  |       [31m^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m  |       value scalatest is not a member of org[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- [E006] Not Found Error: /home/Kusmier/Downloads/PhotoRecognizer/src/main/scala/pointsTest.scala:13:2 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m13 |[0m  test([31m"photoRecognizer.getColors"[0m) {[0m
+[0m[[0m[31merror[0m] [0m[0m   |  [31m^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |  Not found: test[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
